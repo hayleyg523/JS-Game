@@ -43,10 +43,25 @@ button {
 .header h2:hover {
   font-size: 30px;
   transition: 2s;
-  background-color: white;
+  
 }
 
 .header {
   border-style: solid 3px white;
   border-color: white;
+}
+
+
+footer {
+  background-color: black;
+  text-align: center;
+  font-family: Georgia;
+  position: fixed;
+  left: 0px;
+  color: white;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  padding-top: 4px;
+  padding-bottom: 5px;
 }
